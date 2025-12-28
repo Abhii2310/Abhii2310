@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Abhishek (aka Abhii2310)
+# 👋 Hey, I’m Abhishek<>
 
 > I don’t just write code — I design systems that *think, scale, and survive*.
 
