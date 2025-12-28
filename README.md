@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 About Me (Short, Sharp, Human)
+## 🚀 About Me 
 
 I’m a **Full Stack & Cloud-Native Engineer** who loves turning complex ideas into **clean, production-ready systems**.  
 My work lives at the intersection of **Backend Engineering, DevOps, AI, and System Design**.
@@ -23,7 +23,7 @@ I believe:
 🔹 **DevSecOps pipelines** with CI/CD, monitoring & security baked in  
 🔹 **Blockchain & cryptography-based systems** for secure data flow  
 
-> I focus on **real-world problems**, not toy projects.
+> I focus on **real-world problems**.
 
 ---
 
